@@ -60,6 +60,8 @@ The project is organized to separate code, input data, and results:
 ├── run_analysis.sh        # Main driver script
 └── README.md              # Documentation
 
+```
+
 ## Prerequisites
 
 SAC (Seismic Analysis Code): Required for header manipulation (sac, saclst).
