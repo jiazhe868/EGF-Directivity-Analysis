@@ -1,0 +1,18 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Data & Temp Files ---
+*.HHT
+*.SAC
+
+temp/
+
+*.procbest
+*.efs
+*.dat
+!usedeventfm.dat
+!e1params.dat
+
+# --- System ---
+.DS_Store
