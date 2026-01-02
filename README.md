@@ -86,6 +86,7 @@ Run the driver script with the EGF Event ID and the Target Event ID:
 Bash
 
 chmod +x run_analysis.sh
+
 ./run_analysis.sh 39025199 38452095
 
 4. Outputs
